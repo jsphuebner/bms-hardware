@@ -8133,7 +8133,7 @@ DIN A3, landscape with extra doc field</description>
 <part name="LED3" library="led" deviceset="LED" device="CHIPLED_0805" value="150060GS75000"/>
 <part name="LED4" library="led" deviceset="LED" device="CHIPLED_0805" value="150060GS75000"/>
 <part name="D2" library="adafruit" deviceset="DIODE" device="SOD-323F"/>
-<part name="D3" library="adafruit" deviceset="DIODE" device="SOD-323F"/>
+<part name="D3" library="adafruit" deviceset="DIODE" device="SOD-323F" value="MM3Z3V0ST1G "/>
 <part name="J1" library="con-amp" deviceset="MTA05-100" device=""/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
 <part name="C6" library="rcl" deviceset="C-EU" device="C0603" value="100n"/>
@@ -8160,8 +8160,6 @@ Vbat4: 14.6-16.2V (1.6mV)
 </text>
 <text x="81.28" y="-41.91" size="1.778" layer="91">R5: Only populate on first board</text>
 <text x="71.12" y="-7.62" size="1.778" layer="91">R6: Populate on all but first board</text>
-<text x="38.1" y="-53.34" size="1.778" layer="91">D3: 3V Zener for first
-board MM3Z3V0ST1G</text>
 <text x="160.02" y="-83.82" size="2.54" layer="91">5.2</text>
 <text x="71.12" y="-67.31" size="3.81" layer="91">(C) 2019 Johannes Huebner
 openinverter.org</text>
@@ -8380,8 +8378,8 @@ openinverter.org</text>
 <attribute name="VALUE" x="48.26" y="107.95" size="1.27" layer="96"/>
 </instance>
 <instance part="D3" gate="G$1" x="50.8" y="-40.64" smashed="yes" rot="R90">
-<attribute name="NAME" x="48.26" y="-40.64" size="1.27" layer="95" rot="R180"/>
-<attribute name="VALUE" x="54.61" y="-43.18" size="1.27" layer="96" rot="R90"/>
+<attribute name="NAME" x="48.26" y="-38.1" size="1.27" layer="95" rot="R180"/>
+<attribute name="VALUE" x="48.26" y="-40.64" size="1.27" layer="96" rot="R180"/>
 </instance>
 <instance part="J1" gate="G$1" x="-101.6" y="66.04" smashed="yes" rot="R90">
 <attribute name="NAME" x="-99.06" y="76.2" size="1.778" layer="95" rot="R180"/>
