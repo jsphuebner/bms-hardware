@@ -1,0 +1,22 @@
+Partlist exported from /Users/andy/Documents/GitHub/bms-hardware/Isolator2.0.sch at 22/07/2019 18:51
+
+Qty Value        Device          Package                   Parts         Description                                                                         MF                      MPN          OC_FARNELL OC_NEWARK
+1                CRYSTAL10.5X4.8 CRYSTAL-SMD-10.5X4.8-2PIN Y1            Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00534                                                          
+2                LEDCHIP-LED0805 CHIP-LED0805              POWER, STATUS LED                                                                                                                                          
+2                PINHD-1X2       1X02                      JP2, JP3      PIN HEADER                                                                                                                                   
+1                PINHD-2X5       2X05                      JP1           PIN HEADER                                                                                                                                   
+2                SUPPRESSOR-SMBJ SMBJ                      D1, D2        Suppressor diode                                                                                                                             
+1   100k         R-EU_M0805      M0805                     R4            RESISTOR, European symbol                                                                                                                    
+1   10n          C-EUC0805       C0805                     C5            CAPACITOR, European symbol                                                                                                                   
+2   10µ          C-EUC0805       C0805                     C3, C4        CAPACITOR, European symbol                                                                                                                   
+1   1M           R-EU_M0805      M0805                     R3            RESISTOR, European symbol                                                                                                                    
+2   2060-402     2060-402        2060-402                  IN, OUT                                                                                                                                                    
+2   20p          C-EUC0805       C0805                     C2, C6        CAPACITOR, European symbol                                                                                                                   
+1   20pf         C-EUC0805       C0805                     C1            CAPACITOR, European symbol                                                                                                                   
+3   270R         R-EU_M0805      M0805                     R1, R5, R6    RESISTOR, European symbol                                                                                                                    
+2   4N25SM       4N25SM          DIL6-SMD                  OK1, OK2      General Purpose 6-Pin Phototransistor Optocouplers                                  FAIRCHILD SEMICONDUCTOR 4N25SM       1021152    34C2020  
+2   4k7          R-EU_M0805      M0805                     R2, R10       RESISTOR, European symbol                                                                                                                    
+1   BC847ALT1SMD BC847ALT1SMD    SOT23                     T3            NPN Transistor                                                                                                                               
+1   MEGA8-AI     MEGA8-AI        TQFP32-08                 IC1           MICROCONTROLLER                                                                                             ATMEGA8-16AU 9171371    73M8863  
+2   RJ45-8PTH    RJ45-8PTH       RJ45-8                    J1, J2        RJ45 Jack                                                                                                                                    
+1   RS485SOIC    RS485SOIC       SO08                      IC2           RS485 transceiver                                                                                                                            
