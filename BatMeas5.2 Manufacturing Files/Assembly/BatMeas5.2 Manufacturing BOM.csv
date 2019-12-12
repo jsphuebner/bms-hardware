@@ -1,6 +1,6 @@
 Qty,Value,SM / THT,Fitted? (Y/N),Device,Package,Parts,Description,Additional info,Manufacturer,Manufacturers Part Number
 1,,SM,Y,DIODESOD-323F,SOD-323F,D2,Diode,Diode Signal 1N4148,On Semiconductor,1N4148WS
-1,,SM,Y,DIODESOD-323F,SOD-323F,D3,Zener Diode,Zener Diode SOD-323 3V 300mW,On Semiconductor,MM3Z3V0ST1G 
+1,,SM,Y,DIODESOD-323F,SOD-323F,D3,Diode,Diode Signal 1N4148,On Semiconductor,1N4148WS 
 1,,SM,Y,BM03B-PASS-1,,J4,JST Connector,,JST,BM03B-PASS-1-TFT(LF)(SN)
 1,,SM,Y,BM05B-PASS-1,,J3,JST Connector,,JST,BM05B-PASS-1-TFT(LF)(SN)
 1,,THT,N,MTA03-100,10X03MTA,J2,AMP connector,Connector 3 pole,,
