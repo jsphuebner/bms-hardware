@@ -26,7 +26,7 @@ Qty,Value,SM / THT,Fitted (Y/N),Device,Package,Parts,Description,Additional info
 1,ATTINY84A-SSU,SM,Y,ATTINY84,SO014,IC1,,Microcontroller ATTINYxxxx,Microchip / Atmel,ATTINY84A-SSU,,https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/ATTINY84A-SSU?qs=sGAEpiMZZMvqv2n3s2xjsUVXpvE2IBMzcgbJdwhGYzI%3D
 3,MMUN2111LT1G,SM,Y,MUN2111T1-PNP_DRIVER-SC59-B,EC SC59-BEC,"T4, T5, T6",PNP Bias Resistor Transistor,Transistor PNP,On Semiconductor,MMUN2111LT1G,,https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/MMUN2111LT1G?qs=sGAEpiMZZMutXGli8Ay4kKASkyfULHNfl7gsZ6ECsPg%3D
 5,MMUN2233,SM,Y,MUN2211T1-NPN_DRIVER-SC59-B,EC SC59-BEC,"T1, T2, T3, T7, T8",NPN Bias Resistor Transistor,Transistor NPN,On Semiconductor,MMUN2233LT1G,,https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/MMUN2233LT1G?qs=sGAEpiMZZMshyDBzk1%2FWi8IbY%2FuYhwcPZBwVCqFve9E%3D
-1,,Loose,Y,Jumper,,JP1,Board position selection,,Sullins,QPC02SXGN-RC ,Place on JP1 Pins 2-4 by default. Must be moved to Pins 4-6 on first board,https://www.digikey.de/product-detail/de/sullins-connector-solutions/QPC02SXGN-RC/S9337-ND/2618262
+1,,SM,Y,Jumper,,JP1,Board position selection,,Sullins,QPC02SXGN-RC ,Place on JP1 Pins 2-4 by default. Must be moved to Pins 4-6 on first board,https://www.digikey.de/product-detail/de/sullins-connector-solutions/QPC02SXGN-RC/S9337-ND/2618262
 ,,,,,,,,,,,,
 ,,46 SMT Parts,,,,,,,,,,
 ,,25 Different SMT parts,,,,,,,,,,
