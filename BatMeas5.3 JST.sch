@@ -8353,7 +8353,7 @@ Source: http://www.avx.com/docs/Catalogs/9175.pdf</description>
 <part name="R22" library="rcl" deviceset="R-EU_" device="R0805" value="22"/>
 <part name="R6" library="rcl" deviceset="R-EU_" device="R0603" value="1k"/>
 <part name="R11" library="rcl" deviceset="R-EU_" device="R0603" value="220"/>
-<part name="C5" library="rcl" deviceset="C-EU" device="C0603" value="4n7"/>
+<part name="C5" library="rcl" deviceset="C-EU" device="C0603" value="10n"/>
 <part name="GND16" library="supply1" deviceset="GND" device=""/>
 <part name="R12" library="rcl" deviceset="R-EU_" device="R0603" value="220"/>
 <part name="R14" library="rcl" deviceset="R-EU_" device="R0603" value="100k"/>
@@ -8665,12 +8665,8 @@ openinverter.org</text>
 <pinref part="C9" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<wire x1="-96.52" y1="15.24" x2="-68.58" y2="15.24" width="0.1524" layer="91"/>
-<junction x="-68.58" y="15.24"/>
 <pinref part="C1" gate="G$1" pin="2"/>
 <pinref part="GND2" gate="1" pin="GND"/>
-<wire x1="-96.52" y1="15.24" x2="-96.52" y2="60.96" width="0.1524" layer="91"/>
-<wire x1="-96.52" y1="60.96" x2="-99.06" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="R1" gate="G$1" pin="2"/>

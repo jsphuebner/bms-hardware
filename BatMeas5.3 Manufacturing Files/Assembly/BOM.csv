@@ -1,9 +1,8 @@
 Qty,Value,SM / THT,Fitted (Y/N),Device,Package,Parts,Description,Additional info,Manufacturer,Manufacturers Part Number,Comment,Mouser / Farnell
-1,,SM,Y,DIODESOD-323F,SOD-323F,"D2, D3",Diode,Diode Signal 1N4148,On Semiconductor,1N4148WS,,https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/1N4148WS?qs=sGAEpiMZZMtoHjESLttvkr4bXZrJfFziTdC5C0Y1oek%3D
-1,,SM,Y,BM03B-PASS-1,,J4,JST Connector,,JST,BM03B-PASS-1-TFT(LF)(SN),,https://uk.farnell.com/jst-japan-solderless-terminals/bm03b-pass-1-tft-lf-sn/connector-header-3pos-1row-2mm/dp/2399307?st=BM03B-PASS-1-TFT(LF)(SN)
-1,,SM,Y,BM05B-PASS-1,,J3,JST Connector,,JST,BM05B-PASS-1-TFT(LF)(SN),,https://uk.farnell.com/jst-japan-solderless-terminals/bm05b-pass-1-tft-lf-sn/connector-header-5pos-1row-2mm/dp/2399310
-1,,THT,N,MTA03-100,10X03MTA,J2,AMP connector,Connector 3 pole,,,,
-1,,THT,N,MTA05-100,10X05MTA,J1,AMP connector,Connector 5 pole,,,,
+2,,SM,Y,DIODESOD-323F,SOD-323F,"D2, D3",Diode,Diode Signal 1N4148,On Semiconductor,1N4148WS,,https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/1N4148WS?qs=sGAEpiMZZMtoHjESLttvkr4bXZrJfFziTdC5C0Y1oek%3D
+1,,SM,Y,CON-LSTC,,X1_,Chinese IDC connector,4mm wire to board connector,LSTC,4400W03J7923,,
+1,,SM,Y,BM05B-PASS-1,,J4,JST Connector,,JST,BM05B-PASS-1-TFT(LF)(SN),,https://uk.farnell.com/jst-japan-solderless-terminals/bm05b-pass-1-tft-lf-sn/connector-header-5pos-1row-2mm/dp/2399310
+1,,SM,N,CON-AVX,,X1,AVX IDC connector,2.56mm wire to board connector,AVX,9175003702996,,https://www.digikey.com/product-detail/en/avx-corporation/009175003702996/478-9530-1-ND/5015640
 1,,SM,Y,PINHD-2X5,2X05,JP1,PIN HEADER,Header 10 way,,3020-10-0300-00,Programming header,https://www.digikey.de/product-detail/de/cnc-tech/3020-10-0300-00/1175-1621-ND/3441727
 1,100k,SM,Y,R-EU_R0603,R0603,R14,"RESISTOR, European symbol",Resistor 0603 100k 1% 100mW,Vishay,CRCW0603100KFKEA,,https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW0603100KFKEA?qs=sGAEpiMZZMu61qfTUdNhG3XwnH6YDjgjVclO%2FX%252BjaWo%3D
 4,100n,SM,Y,C-EUC0603,C0603,"C2, C3, C4, C6","CAPACITOR, European symbol",Capacitor 0603 100n 20% 25V,Kemet,C0603C104M3VACTU,,https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104M3VACTU?qs=sGAEpiMZZMvsSlwiRhF8qiamir66WTSk0mUJvKeJkmA%3D
@@ -12,8 +11,7 @@ Qty,Value,SM / THT,Fitted (Y/N),Device,Package,Parts,Description,Additional info
 1,1540k,SM,Y,R-EU_R0603,R0603,R8,"RESISTOR, European symbol",Resistor 0603 1540k 1% 100mW,Vishay,CRCW06031M54FKEA,,https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW06031M54FKEA?qs=algJsbUzQnFVJ2u3pqZ3aw%3D%3D
 4,1M,SM,Y,R-EU_R0603,R0603,"R1, R2, R3, R4","RESISTOR, European symbol",Resistor 0603 1M 1% 100mW,Vishay,CRCW06031M00FKEA,,https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW06031M00FKEA?qs=sGAEpiMZZMu61qfTUdNhG%2Fy1ga03FwuGiX6Sd4sl%252BPo%3D
 2,1k,SM,Y,R-EU_R0603,R0603,"R6, R16","RESISTOR, European symbol",Resistor 0603 1k 5% 100mW,Vishay,CRCW06031K00FKEA,,https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW06031K00FKEA?qs=sGAEpiMZZMu61qfTUdNhG7Gzy2l2IcrzZW%252B7Dk5m234%3D
-1,1µ,SM,Y,C-EUC0603,C0603,C1,"CAPACITOR, European symbol",Capacitor 0603 1u 20% 25V,Kemet,C0603C105M3PACTU,,https://www.mouser.co.uk/ProductDetail/KEMET/C0603C105M3PACTU?qs=sGAEpiMZZMvsSlwiRhF8qqXz3GxXULFsXngoIkm2q6I%3D
-1,1µ,SM,Y,C-EUC0805,C0805,C8,"CAPACITOR, European symbol",Capacitor 0805 1uF 20% 10V,Kemet,C0805C105K8RAC,,https://www.mouser.co.uk/ProductDetail/KEMET/C0805C105K8RAC?qs=sGAEpiMZZMvsSlwiRhF8qmPBMd%252BWfAkOAT5IdVNSHHY%3D
+3,1µ,SM,Y,C-EUC0603,C0603,"C1, C7, C8","CAPACITOR, European symbol",Capacitor 0603 1u 20% 25V,Kemet,C0603C105M3PACTU,,https://www.mouser.co.uk/ProductDetail/KEMET/C0603C105M3PACTU?qs=sGAEpiMZZMvsSlwiRhF8qqXz3GxXULFsXngoIkm2q6I%3D
 1,20V,SM,Y,ZENER-DIODESMB,SMB,D1,Z-Diode,Zener Diode SMB 20V 3W,On Semiconductor,1SMB5932BT3G,,https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/1SMB5932BT3G?qs=sGAEpiMZZMtqO%252BWUGLBzeNjTlo8%2FRK9r
 4,22,SM,Y,R-EU_R0805,R0805,"R19, R20, R21, R22","RESISTOR, European symbol",Resistor 0805 22R 5% 125mW,Vishay,CRCW080522R0FKEA,,https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW080522R0FKEA?qs=sGAEpiMZZMu61qfTUdNhG2DpbjADlD3GiHREBth38IE%3D
 3,220,SM,Y,R-EU_R0603,R0603,"R11, R12, R13","RESISTOR, European symbol",Resistor 0603 270R 5% 100mW,Vishay,CRCW0603270RFKEA,Used to be 270,https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW0603270RFKEA?qs=sGAEpiMZZMu61qfTUdNhG1ajYgHS1GM4812Hi%2F%252BWNnA%3D
@@ -28,8 +26,8 @@ Qty,Value,SM / THT,Fitted (Y/N),Device,Package,Parts,Description,Additional info
 5,MMUN2233,SM,Y,MUN2211T1-NPN_DRIVER-SC59-B,EC SC59-BEC,"T1, T2, T3, T7, T8",NPN Bias Resistor Transistor,Transistor NPN,On Semiconductor,MMUN2233LT1G,,https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/MMUN2233LT1G?qs=sGAEpiMZZMshyDBzk1%2FWi8IbY%2FuYhwcPZBwVCqFve9E%3D
 1,,SM,Y,Jumper,,JP1,Board position selection,,Sullins,QPC02SXGN-RC ,Place on JP1 Pins 2-4 by default. Must be moved to Pins 4-6 on first board,https://www.digikey.de/product-detail/de/sullins-connector-solutions/QPC02SXGN-RC/S9337-ND/2618262
 ,,,,,,,,,,,,
-,,46 SMT Parts,,,,,,,,,,
-,,25 Different SMT parts,,,,,,,,,,
+,,48 SMT Parts,,,,,,,,,,
+,,24 Different SMT parts,,,,,,,,,,
 ,,,,,,,,,Mating parts,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,JST,PAP-03V-S,,https://uk.farnell.com/jst-japan-solderless-terminals/pap-03v-s/connector-housing-pa-3way-2mm/dp/1830728?ost=PAP-03V-S&ddkey=https%3Aen-GB%2FElement14_United_Kingdom%2Fsearch
