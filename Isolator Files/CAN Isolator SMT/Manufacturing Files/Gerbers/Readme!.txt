@@ -1,0 +1,1 @@
+Use ZIP files when ordering from JLCPCB

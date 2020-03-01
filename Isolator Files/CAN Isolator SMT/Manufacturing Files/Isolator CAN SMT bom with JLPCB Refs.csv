@@ -1,0 +1,53 @@
+Component,Value,References,Footprint,JLPCB Component,JLPCB Extended
+1,100nF,C7 C11 C13 C16 C17 C18 C19,C_0603_1608Metric,C14663,
+2,100uF,C3 C23,CP_Elec_6.3x7.7,C176675,e
+3,10uF,C6,C_0805_2012Metric,C15850,
+4,1nF,C5 C10,C_0603_1608Metric,C1588,
+5,1uF,C8 C21 C22,C_0603_1608Metric,C15849,
+6,20pF,C12 C15 C20,C_0603_1608Metric,C1648,
+7,22nF,C2,C_0603_1608Metric,C21122,
+8,22uF,C9,C_0805_2012Metric,C59461,
+9,33pF,C1,C_0603_1608Metric,C1663,
+10,4.7uF,C4,C_0805_2012Metric,C1779,
+11,1N4148,D2,D_SOD-123,C81598,
+12,D_Schottky,D1,D_SMA,C12889,e
+13,LED,D3 D4,LED_0805_2012Metric,C84256,
+14,Conn_01x02,J6 J7 J8,PinHeader_1x02_P2.54mm_Vertical,,
+15,Conn_01x03,J1 J5,PinHeader_1x03_P2.54mm_Vertical,,
+16,Conn_01x04,J2 J4,PinHeader_1x04_P2.54mm_Vertical,,
+17,Conn_01x08,J3,PinHeader_1x08_P2.54mm_Vertical,,
+18,Conn_02x05_Odd_Even,J9,PinHeader_2x05_P2.54mm_Horizontal,,
+19,G5LE-1,K1,Relay_SPDT_Omron-G5LE-1,,
+20,10uH,L2 L3,L_0805_2012Metric,C1046,e
+21,3.3uH,L1,L_1210_3225Metric,C87560,e
+22,2N7002,Q1 Q2 Q3 Q4 Q5,SOT-23,C8545,
+23,100KΩ,R12 R14 R18,R_0603_1608Metric,C25803,
+24,10KΩ,R1 R7 R13 R16 R17 R19 R20 R21 R22,R_0603_1608Metric,C25804,
+25,15KΩ,R2 R3 R4,R_0603_1608Metric,C22809,
+26,270Ω,R15,R_0603_1608Metric,C22966,
+27,4.7KΩ,R5 R6,R_0603_1608Metric,C23162,
+28,470Ω,R8 R9,R_0603_1608Metric,C23179,
+29,49.9KΩ,R11,R_0603_1608Metric,C23184,
+30,9.53KΩ,R10,R_0603_1608Metric,C23127,e
+31,4N35S,U5 U6,SMDIP-6_W7.62mm,C143074,e
+32,LD1117S33TR_SOT223,U2,SOT-223-3_TabPin2,C347229,e
+33,MP2359,U1,TSOT-23-6,C14259,
+34,SN65HVD230,U4 U7,SOIC-8_3.9x4.9mm_P1.27mm,C12084,
+35,STM32F105RBTx,U3,LQFP-64_10x10mm_P0.5mm,C8349,e
+36,8M0,Y2,Crystal_SMD_5032-2Pin_5.0x3.2mm,C115962,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Component Groups:,36,,,,
+Component Count:,74,,,,
+Fitted Components:,74,,,,
+Number of PCBs:,1,,,,
+Total components:,74,,,,
+Schematic Version:,,,,,
+Schematic Date:,,,,,
+PCB Variant:,[u'default'],,,,
+BoM Date:,01/03/2020 18:09,,,,
+Schematic Source:,C:\Users\andym\OneDrive\10 Documents\01 Projects\01 Electric Car\30 Johannes Huebner\200 BMS\30 CAN Isolator\20 CAN Isolator SMT\10 KiCAD\Isolator CAN SMT STM32F105 2 layer\Isolator CAN SMT.sch,,,,
+KiCad Version:,Eeschema (5.1.5)-3,,,,
