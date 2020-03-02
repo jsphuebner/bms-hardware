@@ -936,7 +936,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="42.155" y="24.69" size="0.8128" layer="25" font="vector"/>
 <attribute name="VALUE" x="37.855" y="23.29" size="0.8128" layer="27" font="vector"/>
 </element>
-<element name="C6" library="rcl" package="C0603" value="100n" x="47.5075" y="14.705" smashed="yes" rot="R90">
+<element name="C6" library="rcl" package="C0603" value="1µ" x="47.5075" y="14.705" smashed="yes" rot="R90">
 <attribute name="NAME" x="48.3925" y="12.91" size="1.016" layer="25" rot="R180"/>
 <attribute name="VALUE" x="49.4125" y="14.07" size="1.27" layer="27" rot="R90"/>
 </element>
