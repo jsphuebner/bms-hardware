@@ -20,7 +20,7 @@ Component,Value,References,Footprint,JLPCB Component,JLPCB Extended
 19,3.3uH,L1,L_1210_3225Metric,C87560,e
 20,AO3400A,Q4 Q5,SOT-23,C20917,
 21,S8050,Q1 Q2 Q3,SOT-23,C2146,
-22,100KΩ,R12 R14 R18,R_0603_1608Metric,C25803,
+22,100KΩ,R12 R14,R_0603_1608Metric,C25803,
 23,10KΩ,R1 R7 R13 R16 R17 R19 R20 R21 R22,R_0603_1608Metric,C25804,
 24,15KΩ,R2 R3 R4,R_0603_1608Metric,C22809,
 25,270Ω,R15,R_0603_1608Metric,C22966,
@@ -29,24 +29,24 @@ Component,Value,References,Footprint,JLPCB Component,JLPCB Extended
 28,49.9KΩ,R11,R_0603_1608Metric,C23184,
 29,9.53KΩ,R10,R_0603_1608Metric,C23127,e
 30,4N35S,U5 U6,SMDIP-6_W7.62mm,C143074,e
-31,LD1117S33TR_SOT223,U2,SOT-223-3_TabPin2,C347229,e
+31,AMS1117-3.3,U2,SOT-223-3_TabPin2,C6186,
 32,MP2359,U1,TSOT-23-6,C14259,
 33,SN65HVD230,U4 U7,SOIC-8_3.9x4.9mm_P1.27mm,C12084,
 34,STM32F105RBTx,U3,LQFP-64_10x10mm_P0.5mm,C8349,e
 35,8M0,Y2,Crystal_SMD_5032-2Pin_5.0x3.2mm,C115962,
-
-
-
-
-
-Component Groups:,35
-Component Count:,68
-Fitted Components:,68
-Number of PCBs:,1
-Total components:,68
-Schematic Version:,2
-Schematic Date:,25 April 2020
-PCB Variant:,[u'default']
-BoM Date:,03/05/2020 19:10:30
-Schematic Source:,C:\Users\andym\OneDrive\10 Documents\01 Projects\01 Electric Car\30 Johannes Huebner\200 BMS\30 CAN Isolator\20 CAN Isolator SMT\10 KiCAD\Isolator CAN SMT STM32F105 2 layer v2\Isolator CAN SMT v2.sch
-KiCad Version:,Eeschema (5.1.5)-3
+36,1MΩ,R18,R_0603_1608Metric,C22935,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Component Groups:,35,,,,
+Component Count:,68,,,,
+Fitted Components:,68,,,,
+Number of PCBs:,1,,,,
+Total components:,68,,,,
+Schematic Version:,2,,,,
+Schematic Date:,25.04.20,,,,
+PCB Variant:,[u'default'],,,,
+BoM Date:,03/05/2020 19:10:30,,,,
+Schematic Source:,C:\Users\andym\OneDrive\10 Documents\01 Projects\01 Electric Car\30 Johannes Huebner\200 BMS\30 CAN Isolator\20 CAN Isolator SMT\10 KiCAD\Isolator CAN SMT STM32F105 2 layer v2\Isolator CAN SMT v2.sch,,,,
+KiCad Version:,Eeschema (5.1.5)-3,,,,
